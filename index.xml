@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>obezyanki</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="Fistachka" repo="obezyanki2"/>
   <readme>
     <ru>811d2cc1aaf79d3f87132df770fcdf039ef6b1ab5bcdfb8e9ccabedc06917d0f</ru>
@@ -16,14 +16,14 @@
     <tonalities>8</tonalities>
     <video name="1t.mp4" size="1522939" type="video/mp4" volume="0.5">e3cf56433565c60f426b82ca7032612b62e2f822d7d6c9f308daff02f9d35a4c</video>
     <notes>
-      <note number="1" values="58" ticks="648" durationTicks="42" ppq="96" velocity="0.843"/>
-      <note number="2" values="58" ticks="697" durationTicks="41" ppq="96" velocity="0.906"/>
-      <note number="3" values="58" ticks="744" durationTicks="40" ppq="96" velocity="0.866"/>
-      <note number="4" values="58" ticks="793" durationTicks="38" ppq="96" velocity="0.913"/>
-      <note number="5" values="58" ticks="229" durationTicks="90" ppq="96" velocity="0.913"/>
-      <note number="6" values="188" ticks="329" durationTicks="86" ppq="96" velocity="0.719"/>
-      <note number="7" values="58" ticks="421" durationTicks="128" ppq="96" velocity="1"/>
-      <note number="8" values="58" ticks="672" durationTicks="95" ppq="96" velocity="1"/>
+      <note number="1" values="58" ticks="442" durationTicks="42" ppq="96" velocity="0.843"/>
+      <note number="2" values="58" ticks="495" durationTicks="41" ppq="96" velocity="0.906"/>
+      <note number="3" values="58" ticks="542" durationTicks="40" ppq="96" velocity="0.866"/>
+      <note number="4" values="58" ticks="590" durationTicks="38" ppq="96" velocity="0.913"/>
+      <note number="5" values="58" ticks="638" durationTicks="50" ppq="96" velocity="0.913"/>
+      <note number="6" values="188" ticks="687" durationTicks="51" ppq="96" velocity="0.719"/>
+      <note number="7" values="58" ticks="735" durationTicks="50" ppq="96" velocity="1"/>
+      <note number="8" values="58" ticks="784" durationTicks="74" ppq="96" velocity="1"/>
     </notes>
   </exercise>
   <exercise number="2">
