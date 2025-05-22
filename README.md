@@ -20,6 +20,9 @@
 My pokryty bronzovym zagarom,
 YAgody v lesu goryat pozharom.
 Leto eto zharkoe nedarom,
+![з2](https://github.com/user-attachments/assets/c268e326-19fc-4462-8a15-3a85f835c199)
+![з1](https://github.com/user-attachments/assets/68e9aae7-94f7-4f7e-a560-70a32f2d71f2)
+
 Leto - eto horosho!
 
 Previous lesson: stolbitsa.com/fistachka/dedmoroz3<br><br>
